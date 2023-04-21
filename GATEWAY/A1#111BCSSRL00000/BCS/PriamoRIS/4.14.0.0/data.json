@@ -2,24 +2,23 @@
    "appVendor":"BCS",
    "appID":"PriamoRIS",
    "appVersion":"4.14.0.0",
-   "email":"d.casiraghi@bcs.it",
    "results":[
       {
          "id":11,
-         "ts":"2023-03-27T11:55:01Z",
-         "traceId":"e141b549f33da7ae",
-         "workflowInstanceId":"2.16.840.1.113883.2.9.2.80.3.1.4.4.6c52206b644043f09b41b3c74228843b4dfe48ebb8becb8da36c83ed0e434d10.cc98eb54b5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+         "ts":"2023-04-17T12:55:26Z",
+         "traceId":"c8c65ede86d0fdda",
+         "workflowInstanceId":"2.16.840.1.113883.2.9.2.80.3.1.4.4.63d1dbd0749830b547ef69a44d2d0e84d76bbe5d3c177b4a91f7e1da5bc7221a.bf038ee5cc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
          "files":[
-            "AnteprimaReferto_2023__21_TestCase_OK_11.pdf"
+            "2023000023TestOK11.pdf"
          ]
       },
       {
          "id":12,
-         "ts":"2023-03-27T11:57:08Z",
-         "traceId":"089738612f943ae8",
-         "workflowInstanceId":"2.16.840.1.113883.2.9.2.80.3.1.4.4.6c52206b644043f09b41b3c74228843b4dfe48ebb8becb8da36c83ed0e434d10.5e4149e4e8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+         "ts":"2023-04-17T12:56:46Z",
+         "traceId":"174edad29222edaf",
+         "workflowInstanceId":"2.16.840.1.113883.2.9.2.80.3.1.4.4.63d1dbd0749830b547ef69a44d2d0e84d76bbe5d3c177b4a91f7e1da5bc7221a.71f7414922^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
          "files":[
-            "AnteprimaReferto_2023__21_TestCase_OK_12.pdf"
+            "2023000023TestOK12.pdf"
          ]
       },
       {
